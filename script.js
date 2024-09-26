@@ -1,22 +1,22 @@
 document.addEventListener("DOMContentLoaded", function () {
     const projects = [
         {
-            title: "Project One",
-            description: "A brief description of Project One.",
-            link: "#",
-            image: "https://via.placeholder.com/300"
+            title: "Brick-Breaker-Game",
+            description: "A Java game using Swing and AWT with paddle, ball, and brick collision mechanics, featuring dynamic movement and smooth user-controlled gameplay.",
+            link: "https://github.com/sandeshshinde03/Brick-Breaker-Game",
+            image: "Brick Breaker Game.png"
         },
         {
-            title: "Project Two",
-            description: "A brief description of Project Two.",
-            link: "#",
-            image: "https://via.placeholder.com/300"
+            title: "Car Rental System",
+            description: "The system allows users to browse available cars, rent cars for a specified period, manage car reservations, and payment",
+            link: "https://github.com/sandeshshinde03/CarRentalSystem",
+            image: "Car Rental System.png"
         },
         {
-            title: "Project Three",
-            description: "A brief description of Project Three.",
-            link: "#",
-            image: "https://via.placeholder.com/300"
+            title: "Portfolio",
+            description: "Developed a dynamic and responsive personal portfolio using HTML, CSS, JavaScript, and Bootstrap to showcase projects, skills, and experience",
+            link: "https://sandeshshinde03.github.io/",
+            image: "Portfolio.png"
         }
     ];
 
