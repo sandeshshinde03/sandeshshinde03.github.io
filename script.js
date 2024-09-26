@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             title: "Car Rental System",
-            description: "The system allows users to browse available cars, rent cars for a specified period, manage car reservations, and payment",
+            description: "The Car Rental system is without GUI System allows users to browse available cars, rent cars for a specified period, manage car reservations, and payment.",
             link: "https://github.com/sandeshshinde03/CarRentalSystem",
             image: "Car Rental System.png"
         },
